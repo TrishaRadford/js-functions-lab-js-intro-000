@@ -3,11 +3,11 @@ function happyHolidays (string) {
   return "Happy holidays!";
 }
 function happyHolidaysTo (string) {
-  var name = "you":
+  var name = "you";
   return `Happy holidays, ${name}!`;
 }
 function happyCustomHolidayTo (string) {
-  var holiday = "Christmas":
-  var name = "Tom":
+  var holiday = "Christmas";
+  var name = "Tom";
   return `Happy ${holiday}, ${name}!`;
 }
