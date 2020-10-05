@@ -14,5 +14,5 @@ function happyCustomHolidayTo (string) {
 }
 function holidayCountdown (string) {
   var days = "10"
-  
+
 }
