@@ -5,9 +5,7 @@ function happyHolidays (string) {
 function happyHolidaysTo (name) {
   return `Happy holidays, ${name}!`;
 }
-function happyCustomHolidayTo (string) {
-  var holiday = "Independence Day";
-  var name = "you";
+function happyCustomHolidayTo (holiday, name) {
   return `Happy ${holiday}, ${name}!`;
 }
 function holidayCountdown (string) {
